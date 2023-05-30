@@ -113,6 +113,10 @@ footer{
   min-height: 200px;
 }
 
+.greeting{
+  text-align: center;
+}
+
 @media (max-width: 600px){
     .column {
         flex: 100%;
